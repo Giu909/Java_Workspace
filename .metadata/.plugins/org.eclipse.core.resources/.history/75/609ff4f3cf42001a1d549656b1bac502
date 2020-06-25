@@ -1,0 +1,11 @@
+package la_Terra_Di_Mezzo;
+
+public class Male extends Classe{
+	protected static int tStrenght;
+	public Male(int eXP, int strenght) {
+		super(eXP);
+		this.EXP=eXP;
+		this.Strenght=strenght;
+	}
+	
+}

@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "e1f73f3925984b61e8db0f19b18cabd00998d120e987e6e68a61b58e8d7d55cc",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "0cb6972c56e60e6e55c378b13c072a3e",
+                "configURIPath": "file:///c%3A/Users/Giuseppe/Documents/_Java_Workspace/.metadata/codemix.code-workspace"
+            },
+            {
+                "id": "66c8e382f03e1e6c156f07fd30e5ce14",
+                "configURIPath": "file:///c%3A/Users/senta/Desktop/workspace/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}

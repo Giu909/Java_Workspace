@@ -1,0 +1,12 @@
+package la_Terra_Di_Mezzo;
+
+public class Main {
+	public static int ex=7;
+	public static void main(String[] args) {
+		Uomini u1 = new Uomini(ex);
+		Elfi e1 = new Elfi(ex);
+		
+
+	}
+	
+}

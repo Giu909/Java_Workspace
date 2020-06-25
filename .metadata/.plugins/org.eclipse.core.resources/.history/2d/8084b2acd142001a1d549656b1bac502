@@ -1,0 +1,22 @@
+package la_Terra_Di_Mezzo;
+
+public class Main {
+	public static int exBene=7;
+	public static int exMale=8;
+	public static void main(String[] args) {
+		Uomini u1 = new Uomini(exBene);
+		Elfi e1 = new Elfi(exBene);
+		Nani n1 = new Nani(exBene);
+		Hobbit h1 = new Hobbit(exBene);
+		
+		Orchi o2 = new Orchi(exMale);
+		Urukhai u2 = new Urukhai(exMale);
+		Sudroni s2 = new Sudroni(exMale);
+		
+		int sMale = o2.getMaleStrenght();
+		int sBene = u1.getBeneStrenght();
+		System.out.println(sMale+" : "+sBene);
+
+	}
+	
+}

@@ -1,0 +1,10 @@
+package la_Terra_Di_Mezzo;
+
+public class Male extends Classe{
+
+	public Male(int eXP, int strenght) {
+		super(eXP, strenght);
+		
+	}
+	
+}

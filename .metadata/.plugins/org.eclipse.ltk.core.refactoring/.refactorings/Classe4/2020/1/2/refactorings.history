@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Classe4/testo.txt&apos; to &apos;lista.bin&apos;" description="Rename resource &apos;testo.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="testo.txt" name="lista.bin" stamp="1578388537010" updateReferences="true"/>
+</session>

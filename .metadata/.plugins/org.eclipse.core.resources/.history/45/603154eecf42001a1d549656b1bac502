@@ -1,0 +1,14 @@
+package la_Terra_Di_Mezzo;
+
+public class Hobbit extends Bene {
+
+	public Hobbit(int eXP) {
+		super(eXP);
+		this.EXP=eXP;
+		this.Strenght=this.getStrenght();
+		tStrenght += this.getStrenght();
+	}
+	public int getStrenght() {
+		return 10 + (3*this.getEXP());
+	}
+}

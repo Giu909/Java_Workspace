@@ -1,0 +1,5 @@
+package defPack
+
+fun main() {
+
+}

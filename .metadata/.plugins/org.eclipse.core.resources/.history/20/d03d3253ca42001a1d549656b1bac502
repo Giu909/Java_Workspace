@@ -1,0 +1,29 @@
+package la_Terra_Di_Mezzo;
+
+public class Classe {
+	private int EXP;
+	private int Strenght;
+	public Classe(int eXP, int strenght) {
+		super();
+		EXP = eXP;
+		Strenght = strenght;
+	}
+	public int getEXP() {
+		return EXP;
+	}
+	public void setEXP(int eXP) {
+		EXP = eXP;
+	}
+	public int getStrenght() {
+		return Strenght;
+	}
+	public void setStrenght(int strenght) {
+		Strenght = strenght;
+	}
+	@Override
+	public String toString() {
+		return "Classe [EXP=" + EXP + ", Stenght=" + Strenght + "]";
+	}
+	
+	
+}

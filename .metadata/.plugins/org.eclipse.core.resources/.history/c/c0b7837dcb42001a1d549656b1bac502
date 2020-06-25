@@ -1,0 +1,18 @@
+package la_Terra_Di_Mezzo;
+
+public class Uomini extends Bene{
+
+	public Uomini(int eXP) {
+		super(eXP);
+		this.EXP=eXP;
+		this.Strenght=this.getStrenght();
+	}
+	public int getEXP() {
+		
+		return EXP;
+	}
+	public int getStrenght() {
+		return Strenght;
+	}
+	
+}

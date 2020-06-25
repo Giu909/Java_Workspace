@@ -1,0 +1,14 @@
+package la_Terra_Di_Mezzo;
+
+public class Sudroni extends Male {
+
+	public Sudroni(int eXP, int strenght) {
+		super(eXP, strenght);
+		this.EXP=eXP;
+		this.Strenght=this.getStrenght();
+		maleStrenght += this.getStrenght();
+	}
+	public int getStrenght() {
+		return 40 + (5*this.getEXP());
+	}
+}

@@ -1,0 +1,10 @@
+package la_Terra_Di_Mezzo;
+
+public class Bene extends Classe{
+
+	public Bene(int eXP, int strenght) {
+		super(eXP, strenght);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;info&apos; in &apos;motorizzazione.Record&apos; to &apos;rec&apos;&#x0A;- Original project: &apos;Classe4&apos;&#x0A;- Original element: &apos;motorizzazione.Record.info&apos;&#x0A;- Renamed element: &apos;motorizzazione.Record.rec&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;info&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;motorizzazione{Record.java[Record^info" name="rec" references="true" setter="false" stamp="1576502243772" textual="false" version="1.0"/>
+</session>

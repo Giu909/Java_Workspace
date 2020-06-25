@@ -1,0 +1,5 @@
+package la_Terra_Di_Mezzo;
+
+public class Nani extends Bene {
+
+}

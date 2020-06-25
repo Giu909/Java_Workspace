@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;automobili.motorizzazione.civile&apos; to &apos;Classe4/src&apos;&#x0A;- Original project: &apos;ProgettoQuarta&apos;&#x0A;- Destination element: &apos;Classe4/src&apos;&#x0A;- Original element: &apos;ProgettoQuarta/src/automobili.motorizzazione.civile&apos;" description="Copy package" destination="=Classe4/src" element1="/src&lt;automobili.motorizzazione.civile" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1578386831241" version="1.0"/>
+</session>
